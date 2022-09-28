@@ -1,0 +1,8 @@
+.intro__list-item {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+}
