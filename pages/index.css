@@ -6,6 +6,7 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang/header__lang.css);
+@import url(../blocks/header/__lang-item/header__lang-item.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_active/header__lang_active.css);
 
@@ -47,3 +48,5 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__link-text/footer__link-text.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+
+*,*::before,*::after {outline: 1px solid red}

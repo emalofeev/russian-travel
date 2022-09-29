@@ -21,10 +21,10 @@
     .place__text {
         max-width: 425px;
         } 
-    }
+        }
 
 @media screen and (max-width: 320px) {
     .place__text {
         max-width: 288px;
         } 
-    }
+        }

@@ -3,9 +3,9 @@
     font-size: 18px;
     line-height: 22px;
     color: #FFFFFF;
-    max-width: 456px;
     text-decoration-line: underline;
-    }
+    word-break: break-all;
+}
 
 .place__link:hover {
     opacity: 0.8;
