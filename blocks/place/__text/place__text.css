@@ -1,5 +1,30 @@
 .place__text {
     display: flex;
     flex-direction: column;
+    max-width: 484px;
+    max-width: 100%;
 }
 
+@media screen and (max-width: 1024x) {
+    .place__text {
+        max-width: 456px;
+        } 
+        }
+
+@media screen and (max-width: 768px) {
+    .place__text {
+        max-width: 352px;
+        } 
+        }
+
+@media screen and (max-width: 425px) {
+    .place__text {
+        max-width: 425px;
+        } 
+    }
+
+@media screen and (max-width: 320px) {
+    .place__text {
+        max-width: 288px;
+        } 
+    }
